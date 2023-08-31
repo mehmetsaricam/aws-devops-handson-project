@@ -1,1 +1,1 @@
-# clarusway-aws-devops-tr-14
+aws-devops-tr-14
